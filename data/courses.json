@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Programming Language"
+    },
+    {
+      "id": "02",
+      "name": "Data Science"
+    },
+    {
+      "id": "03",
+      "name": "Mathematical Science"
+    },
+    {
+      "id": "04",
+      "name": "Web Application"
+    },
+    {
+      "id": "05",
+      "name": "Business Course"
+    },
+    {
+      "id": "06",
+      "name": "Cultural Course"
+    },
+    {
+      "id": "07",
+      "name": "All Computer Science"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]

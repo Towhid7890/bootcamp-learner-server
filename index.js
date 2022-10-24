@@ -4,6 +4,19 @@ const app = express();
 app.use(cors());
 const port = process.env.PORT || 5000;
 
+const categories = require("./data/courses.json");
+const courses = require("./data/courseName.json");
+
+// api for loading all course categories
+app.get("/categories", (req, res) => {
+  res.send(categories);
+});
+
+// api for loading all courses
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
+
 app.get("/", (req, res) => {
   res.send("Hello BootCamp learner");
 });
