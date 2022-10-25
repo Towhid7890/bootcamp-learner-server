@@ -16,7 +16,17 @@ app.get("/categories", (req, res) => {
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
-
+// api for select courses in one categories
+// this is for showing categories with id
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  if (id == "08") {
+    res.send(courses);
+  } else {
+    const selectCategory = courses.filter((n) => n.category_id === id);
+    res.send(selectCategory);
+  }
+});
 // api for showing details of  a course
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
