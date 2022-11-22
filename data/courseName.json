@@ -1,22 +1,21 @@
 [
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "price": "200$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Learn Python: The Complete Python Programming ",
+      "title": "Portrait Photography",
       "author": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "details": "If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!"
+      "image_url": "https://static-cse.canva.com/blob/142572/brandon-erlinger-ford-jL8QFwnuOcQ-unsplash-e1591625841340.jpg",
+      "details": "A portrait can also refer to the orientation of a photograph and is the opposite of a landscape photograph. While most portraits of people are done in portrait orientation it is not unheard of to see portraits created in the landscape.Although the definition of portrait photography sounds simple enough, this form of photography can be complicated to master. Portrait photography can be commercial or fine art which has very different goals. When it comes to fine art photography, the primary goal of portrait photography is to capture beautiful images that appear natural and allow a subject’s personality to shine through.Portrait photographs are also required for countless commercial purposes, such as passports, professional biographies, security passes, and other documentation."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -24,309 +23,134 @@
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "03",
+      "price": "300$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Learn Crazy Math and science",
+      "title": "Corporate Photography",
       "author": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCcRfHQL18_pxcPydH6McL54rxb10lD7trw&usqp=CAU",
-      "details": "Mathematics forms the core of data science and machine learning. Thus, to be the best data scientist you can be, you must have a working understanding of the most relevant math.Getting started in data science is easy thanks to high-level libraries like Scikit-learn and Keras. But understanding the math behind the algorithms in these libraries opens an infinite number of possibilities up to you. From identifying modeling issues to inventing new and more powerful solutions, understanding the math behind it all can dramatically increase the impact you can make over the course of your career.Led by deep learning guru Dr. Jon Krohn, this course provides a firm grasp of the mathematics — namely linear algebra and calculus — that underlies machine learning algorithms and data science models"
+      "image_url": "https://www.indiafilings.com/learn/wp-content/uploads/2017/07/GST-Rate-for-Photography-Services.jpg",
+      "details": "Corporate photography is used by companies, both large and small all across Toronto to promote their corporate brand and set the visual tone for their company identity. The most common types of images used for corporate photography are professional portraiture and headshots of company staff, office/environmental photos, corporate event photography and images of products or services offered. They are used on websites, for brochures, stationery, advertising/marketing materials, annual reports, social media, etc. These images speak volumes to clients or investors about the staff and the culture of that company. Great corporate photos showcase the quality of services or products offered, and when executed properly help to promote the standards to which they adhere to in their day to day business operations."
     },
 
     {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "price": "400$",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_view": 400,
-      "title": "Learn Java: The Complete Java Programming",
+      "title": "Headshots Photography",
       "author": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
         "img": "https://www.pexels.com/photo/business-charts-commerce-computer-265087/"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://images.pexels.com/photos/2265488/pexels-photo-2265488.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "details": "Are you aiming to get your first Java Programming job but struggling to find out what skills employers want and which course will give you those skills? This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer.Lots of students have been successful in getting their first job or promotion after going through the course.Here is just one example of a student who lost her job and despite having never coded in her life previously, got a full-time software developer position in just a few months after starting this course.  She didn't even complete the course!"
+      "image_url": "https://5.imimg.com/data5/OY/XD/TG/SELLER-11984295/commerical-photo-videography-service-500x500.png",
+      "details": "In theater, film, and television, actors, models, singers, and other entertainers are often required to include a head shot, along with their résumé, when applying for a job. Those head shots are intended for helping them land a career, an actor headshot should help casting directors understand the person exactly as he or she is (i.e., age group & ethnic background), while the actor hopes that the headshot will inspire the casting director to hire him or her.[1] Head shots often feature the actor or actress facing off-center. A performer will often have head shots expressing different poses and expressions to give a potential employer an idea of the subject's range of appearances or expressions. These types of head shots are called. It is common for an actor to have different head shots for different roles, but for the most part these consist of a change in attire. The head shots that include a person's shoulders are called three-quarter shots. Previously, head shots were often in black-and-white; however, most head shots are now taken in color"
     },
     {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
+     
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "02",
+      "price": "450$",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 400,
-      "title": "Learn Basic Data Science",
+      "title": "Film & Production",
       "author": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2eBkQ7ej6s1Mfik3ZSN_cEgevxP2cUH6ew&usqp=CAU",
-      "details": "This course is great for professionals, as it provides step by step instruction of tests with clear and accurate explanations. Get ahead of the competition and make these tests important parts of your data analytic toolkit!Students will also have the tools needed to succeed in their statistics and experimental design courses.Statistics play a key role in the process of making sound business decisions that will generate higher profits. Without statistics, it's difficult to determine what your target audience wants and needs. This course is designed for business professionals who want to know how to analyze data. You'll learn how to use IBM SPSS to draw accurate conclusions on your research and make decisions that will benefit your customers and your bottom line. "
+      "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2019/03/06125826/event-cover.jpg",
+      "details": "Principal photography is the creative execution phase of film production, sandwiched between pre-production and post-production. It’s when the actors are on set, the call sheets have been handed out, the lights are in place, and the cameras are ready to roll. The only filming not considered principal photography is B-roll, which is usually filmed by a smaller second unit crew. "
     },
 
     {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
       "others_info": {
         "is_todays_pick": false,
         "is_trending": false
       },
-      "category_id": "03",
+      "price": "250$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
-      "title": "Learn Advance Mathematics Engineering",
+      "title": "Photo Retouching",
       "author": {
         "name": "Thohidul",
         "published_date": "2022-08-24 23:15:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35-Fzk4NMucTeWyw3JkFJf2H0Xb4hxPbdNg&usqp=CAU",
-      "details": "Discrete Mathematics (DM), or Discrete Math is the backbone of Mathematics and Computer Science. DM is the study of topics that are discrete rather than continuous, for that, the course is a MUST for any Math or CS student. The topics that are covered in this course are the most essential ones, those that will touch every Math and Science student at some point in their education. The goal of this course is to build the mathematical foundation for computer science courses such as data structures, algorithms, relational and database theory, and for mathematics courses such as linear and abstract algebra, combinatorics, probability, logic and set theory, and number theory."
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/Best_Free_Photo_Editing_Software_Services_and_Apps.png?format=jpg&quality=90&v=1536847963",
+      "details": "Only $6 per photo. We will make portrait photos look good and professionally edited.Our retouchers will enhance body shapes and skin texture, remove all unwanted imperfections making your models look realistically edited.The average hourly rate ranges between $85 to $120 per hour. Typically, it can take an hour to edit one or more images, which means you can expect the following estimated rates: Basic Level – If you only need subtle skin retouching for a wedding, event, or photoshoot, prices range from $50 to 85$ per hour."
     },
 
     {
-      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "02",
+      "price": "500$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": null,
-      "title": "Learn advance Data Science",
+      "title": "Wedding Photography",
       "author": {
         "name": "AS Raju",
         "published_date": "2022-08-30 15:00:04",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZns1EBsw92ysGzT-ZSiGs1gKDN6gs7Wsnsw&usqp=CAU",
-      "details": "This is not one of those fluffy classes where everything works out just the way it should and your training is smooth sailing. This course throws you into the deep end.In this course you WILL experience firsthand all of the PAIN a Data Scientist goes through on a daily basis. Corrupt data, anomalies, irregularities - you name it!This course will give you a full overview of the Data Science journey. Upon completing this course you will know:How to clean and prepare your data for analysis,How to model your data,How to perform basic visualisation of your data"
+      "image_url": "https://cdn0.weddingwire.com/vendor/106980/3_2/960/jpg/dsc01779_51_2089601-164972130076424.jpeg",
+      "details": "Wedding photography is a great way to start making money as a photographer. Cupid takes very few breaks from firing his arrows, so wedding photographers are always in demand. Most weddings take place on the weekend, which allows you to follow other pursuits during the week. You can hold down another job and photograph weddings on the weekend to get started.If you’re thinking about diving into this lucrative niche of photography, check out our list of the top eight wedding photography blogs to gather inspiration and information. These unmissable wedding photography blogs deal with everything from shooting to how to run a business. If you don’t have these bookmarked already, get on it. Study them, delve into their compositions, and fall in love with their style."
     },
 
     {
-      "_id": "a713ee936ff5574273f0f769f5c5b20e",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "03",
+      "price": "450$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 111,
-      "title": "Learn Basic Math and Science",
+      "title": "Children Portrait",
       "author": {
         "name": "system",
         "published_date": null,
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhFF-X91joTZhCazGzL4BHv-fuNaQVlONcw&usqp=CAU",
-      "details": "Advanced mathematics is relevant in many fields: Programming & IT, Engineering, Science (Physics, Chemistry, Biology, Pharmacy, ...), Business & Economics. This course will teach you all you have to know in 24 hours.You are kindly invited to join this carefully prepared course in which we derive the following concepts from scratch. I will present examples and give you exercises (incl. solutions) for all topics.Perfect for everyone who is in school or has just finished school and wants to prepare for university - Get the ultimate head-start!"
+      "image_url": "https://www.hinsonphotography.com/wp-content/uploads/2016/10/portrait-12-960x540.jpg",
+      "details": "A portrait is a painting, photograph, sculpture, or some other artistic representation of a person. Portraits typically focus on a person's face and often displays how the person looks, and/or their personality.Most people think a portrait is a photograph of a person that only depicts them from head to shoulders. But a portrait can also be of your cat or your brother's feet on a skateboard. It should say something about the person you are photographing or the person you are creating with the camera."
     },
 
     {
-      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+     
       "others_info": {
         "is_todays_pick": true,
         "is_trending": false
       },
-      "category_id": "04",
+      "price": "600$",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 733,
-      "title": "Learn Web Fundamental with JavaScript",
+      "title": "Couple Moment",
       "author": {
         "name": "Theo Minh Châu",
         "published_date": "2022-08-25 06:03:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg",
-      "details": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job."
-    },
-    {
-      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 733,
-      "title": "Learn html5/CSS Web Development",
-      "author": {
-        "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
-      "image_url": "https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg",
-      "details": "Well, I'm here to teach you HTML, CSS, and web design, all by building the stunning website that you just saw, step-by-step.So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project."
-    },
-
-    {
-      "_id": "f06f8cc035b04bd1158e4198281915a3",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "Learn B2B Business Analytics",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDRjVcYt45D3XjMGUfLM7D9BAEteDeQUGvg&usqp=CAU",
-      "details": "ATTENTION B2B DIGITAL MARKETING COURSE UDEMY STUDENTS: Learn the strategies and nitty-gritty tactical details of acquiring business customers cheaply and quickly through digital marketing and modern social media marketing. Get digital training from a former VP of Marketing of a Google accelerator startup who taught a college-level digital marketing course.Your instructor was also a Global Marketing Manager at Sony PlayStation, the head of marketing for a Series-A startup, and a Product Marketing Manager for a Google-backed Series-D startup in Silicon Valley. He has an MBA from Philip Kotler's Kellogg School of Management, the #1 marketing school in the USA, where he studied both digital marketing and B2B marketing."
-    },
-    {
-      "_id": "f06f8cc035b04bd1158e4198281915a4",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "Learn Tricky Business Mangement",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NKCnDjTQ-THG7c61V-FoG1qWoKmveVqVnA&usqp=CAU",
-      "details": "Account-Based Marketing is emerging each and every day. ABM become highly regarded as one of the most successful B2B marketing strategy. There is no doubt that ABM is the future of B2B marketing. The objective of the course is to help you to understand the concept and process of the ABM strategy that helps to move an entire buying group towards a specific goal. This course is designed to understand the basics of ABM. You will learn everything from the basics to have a strong foundation and to have a clear understanding of the ABM Strategy.If you are an Inbound marketer then integrating ABM can make a huge difference in your marketing efforts. In the future, the course will be updated timely to make it as your one-stop guide for Account-based marketing."
-    },
-
-    {
-      "_id": "cd2b53655737cc4077542baea9f8f75d",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 700,
-      "title": "Learn Big Data with Notaion",
-      "author": {
-        "name": "Daniel Deangelo",
-        "published_date": "2022-08-30 20:02:52",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLImfkHeEE3O_qhkHCsqt-3xzSWbOIDBXbQ&usqp=CAU",
-      "details": "The world of Hadoop and Big Data can be intimidating - hundreds of different technologies with cryptic names form the Hadoop ecosystem. With this Hadoop tutorial, you'll not only understand what those systems are and how they fit together - but you'll go hands-on and learn how to use them to solve real business problems!Learn and master the most popular data engineering technologies in this comprehensive course, taught by a former engineer and senior manager from Amazon and IMDb. We'll go way beyond Hadoop itself, and dive into all sorts of distributed systems you may need to integrate with."
-    },
-    {
-      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "07",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 300,
-      "title": "Learn Data Structure and algorithms",
-      "author": {
-        "name": "Sayed Mahmud",
-        "published_date": "2022-08-24 22:30:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg",
-      "details": "Updated for the 2022 hiring season! Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a senior developer. Graduates of this course are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook + other top tech companies.Want to land a job at a great tech company like Google, Microsoft, Facebook, Netflix, Amazon, or other companies but you are intimidated by the interview process and the coding questions? Do you find yourself feeling like you get stuck every time you get asked a coding question? This course is your answer. Using the strategies, lessons, and exercises in this course, you will learn how to land offers from all sorts of compani"
-    },
-    {
-      "_id": "7c4dfea0fafddc813673282a428429b7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 0,
-      "title": "Learn Modern Web with React",
-      "author": {
-        "name": "Reuters",
-        "published_date": "2022-08-25 03:09:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg",
-      "details": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)"
-    },
-    {
-      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 320,
-      "title": "Learn Golang For Backend Challenge",
-      "author": {
-        "name": "John Pike",
-        "published_date": "2022-08-25 07:35:11",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/Golang-Tutorial.jpg",
-      "details": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  Don't be tricked by other courses that only teach you for-loops and if-statements!  This is the only course on Udemy that will teach you how to use the full power of Go's concurrency model and interface type systems."
-    },
-    {
-      "_id": "df11ff9feefc37613cc3a4486ce02151",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 552,
-      "title": "Python Data Science advance",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-27 05:38:02",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRY6ZRTxTGqZNYzHJuQKDqPZoXEs53ZtVsA&usqp=CAU",
-      "details": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. Here's why:."
-    },
-    {
-      "_id": "919db97c34e0778b387dd40cdfa08130",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 89,
-      "title": "Learn Ruby Programming intermediate",
-      "author": {
-        "name": "MarketScreener",
-        "published_date": "2022-08-30 18:05:42",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png",
-      "details": "Ruby on Rails Web Developer average salaries by city as of January 2020 (according to Glassdoor)Since its introduction, Ruby on Rails has rapidly become one of the most popular and powerful web application development tools for both startups and mature software companies. Some of the top sites in the world started with Ruby on Rails such as Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages and many more! Even after immense scaling, most of them continue to use Rails! Ruby on Rails developers routinely command the highest salaries in the tech industry!."
+      "image_url": "https://beautysnapshots.com/wp-content/uploads/2019/04/Photo-opt-min.jpeg",
+      "details": "A couple photo session is more than a date it’s a fun way for romantic partners to share beautiful memories forever.One of the amazing things about being a photographer is the ability to tell peoples story through images.Although I am into photography for a few years now, couple photography is a new field for me and I am excited that during this season I have a few more sessions to come up."
     }
+   
   ]
